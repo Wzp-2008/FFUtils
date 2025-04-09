@@ -1,2 +1,2 @@
 # FFUtils
-An utils for process video stream
+A utils for process video stream
